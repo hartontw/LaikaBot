@@ -1,2 +1,2 @@
-# telegramBot
+# LaikaBot
 A Telegram bot.
