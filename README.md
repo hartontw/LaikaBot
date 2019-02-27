@@ -1,2 +1,3 @@
 # LaikaBot
-A Telegram bot.
+
+A friendly bot for groups.
